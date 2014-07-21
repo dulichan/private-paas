@@ -1,5 +1,5 @@
 target/
-
+.DS_Store
 # Eclipse Project Files
 .project
 .classpath
